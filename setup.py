@@ -7,4 +7,5 @@ setup(name='Chunked',
                   'using HTTP "chunked" encoding',
       author='Rustam Kashapov',
       author_email='hardtechnik91@gmail.com',
+      url='https://github.com/rkashapov/chunked',
       scripts=['chunked'])
